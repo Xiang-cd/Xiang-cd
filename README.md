@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Xiang-cd，an undergraduate student at THU CST
+- 👋 Hi, I’m @Xiang-cd，an undergraduate student at THU CST, incoming PHD at THU CST.
 - 👀 I’m interested in generative model and embodied AI
-- 🌱 I’m currently learning pretrain model, such as t2i diffusion models
+- 🌱 I’m currently learning pretrain model, such as t2i, t2v diffusion models and controlable diffusion models
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me xcd19@mails.tsinghua.edu.cn
 
