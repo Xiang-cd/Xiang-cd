@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xiang-cd，an undergraduate student at THU CST, incoming PHD at THU CST.
+- 👋 Hi, I’m @Xiang-cd，a first-year PHD at THU CST.
 - 👀 I’m interested in generative model and embodied AI
 - 🌱 I’m currently learning pretrain model, such as t2i, t2v diffusion models and controlable diffusion models
 - 💞️ I’m looking to collaborate on AI projects
@@ -8,6 +8,12 @@
 Xiang-cd/Xiang-cd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Xiang-cd&column=7)](https://github.com/Xiang-cd)
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xiang-cd&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Xiang-cd&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
 
 
 ## <center> Visitor Count
