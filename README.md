@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Xiang-cd，a first-year PHD at THU CST.
+- 👋 Hi, I’m @Xiang-cd，a first-year PHD at Tsinghua University, computer science and technology.
 - 👀 I’m interested in generative model and embodied AI
 - 🌱 I’m currently learning pretrain model, such as t2i, t2v diffusion models and controlable diffusion models
 - 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me xcd19@mails.tsinghua.edu.cn
+- 📫 How to reach me xcd24@mails.tsinghua.edu.cn
 
 <!---
 Xiang-cd/Xiang-cd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
