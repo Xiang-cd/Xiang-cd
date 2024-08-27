@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Xiang-cd，a first-year PHD at Tsinghua University, computer science and technology.
-- 👀 I’m interested in generative model and embodied AI
-- 🌱 I’m currently learning pretrain model, such as t2i, t2v diffusion models and controlable diffusion models
+- 👋 Hi, I’m @Xiang-cd， a first-year PhD at Tsinghua University, computer science and technology.
+- 👀 I’m interested in generative models and embodied AI
+- 🌱 I’m currently learning pre-train model, such as t2i, t2v diffusion models and controllable diffusion models
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me xcd24@mails.tsinghua.edu.cn
 
