@@ -15,8 +15,3 @@ You can click the Preview link to take a look at your changes.
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
-
-## <center> Visitor Count
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/xiang-cd/count.svg" />
-</p>
